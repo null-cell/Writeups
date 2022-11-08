@@ -1,6 +1,6 @@
 # Hambone challenge writeup
 
-![Screenshot of the challenge](https://cdn.discordapp.com/attachments/671823650491465748/1038966502826717224/chall_pic.png)
+![Screenshot of the challenge](https://raw.githubusercontent.com/null-cell/Writeups/b17344dc038c5d7330b55c9ae49612b019fd1290/BuckeyeCTF/chall%20pic.png)
  Once we open the site, we are met with a **This is not the right way** sign. We also got a file that comes with the challenge called dist.py: 
  
 
